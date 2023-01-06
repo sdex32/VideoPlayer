@@ -1,7 +1,9 @@
 # VideoPlayer
 Video Player using FFMPEG dlls
 
-Video player using FFMPEG dlls, and FFMPEG header in pascal from Boddy Bindham (C)
+Video player using FFMPEG dlls 4.1.10, and FFMPEG header in pascal from Boddy Bindham (C)
+
+Sorry but is not tested with new dlls, i will try soon :)
 
 verery thing else is in pure pascal, for sound play i use my unit for mmsound.
 
